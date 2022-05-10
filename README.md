@@ -1,6 +1,9 @@
-# Kickstarting with Excel
+# SQL Challenge
 
 ## Overview of Project
+
+blah blah blah
+
 
 ### Purpose
 
